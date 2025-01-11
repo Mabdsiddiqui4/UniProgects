@@ -10,7 +10,7 @@ import java.util.Scanner;
  *
  * @author KMNS
  */
-public class main1 {
+public class RescueMission {
 
     public static void main(String[] args) {
 
