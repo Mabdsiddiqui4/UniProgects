@@ -31,9 +31,8 @@ public class CreateDiamondShape {
             System.out.println("");
         }
         // this is wronge
-             
+        /*     
         int N = n ;
-        /*
         for (int i = 1; i <= n+1; i++) {
             for (int j = 1; j <= (i); j++) { // you can also change to (i-1)
                 System.out.print("*");
