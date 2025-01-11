@@ -16,8 +16,6 @@ public class RescueMission {
 
         Scanner in = new Scanner(System.in);
         boolean ischoscse = false;
-        
-        int sot = 0;
         long startTime = 0;
         int fuel = 0;
         int point = 0;
